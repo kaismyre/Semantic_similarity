@@ -1,0 +1,20 @@
+
+For semantic.py using en_core_web_md
+
+'''It's interesting to note that the 
+similarity scores between the words 
+"cat" and "monkey", and "apple" and "banana" 
+are relatively high, despite not being
+ closely related semantically. 
+'''
+
+
+For example.py using en_core_web_sm
+
+ '''The similarity scores may be slightly
+ different when using the en_core_web_sm 
+ model compared to the en_core_web_md model. 
+ This is because the models are trained 
+ on different data and have different 
+ capacities, so they may produce slightly 
+ different results.'''
